@@ -9,3 +9,5 @@
 .contracts/uncertainty-reward-distribution.clar,d/5/d5dac0cb3182c9676fae4445fa70126947c72016
 ]
 -tests/uncertainty-reward-distribution.test.ts,e/8/e8419a0de2fff827abb77ef0badb4491c07250cb
+a
+1contracts/entanglement-difficulty-adjustment.clar,c/9/c92be1bfd0d0ff3ac2cbce406eaa8ff7ebafff71
