@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/quantum-fluctuation-harnessing.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.uncertainty-reward-distribution]
+path = 'contracts/uncertainty-reward-distribution.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
