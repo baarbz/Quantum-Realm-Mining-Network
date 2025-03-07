@@ -7,3 +7,5 @@
 ,tests/quantum-fluctuation-harnessing.test.ts,5/2/52fc69537597de36811d007812d58f23e9da326b
 ^
 .contracts/uncertainty-reward-distribution.clar,d/5/d5dac0cb3182c9676fae4445fa70126947c72016
+]
+-tests/uncertainty-reward-distribution.test.ts,e/8/e8419a0de2fff827abb77ef0badb4491c07250cb
